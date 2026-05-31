@@ -27,7 +27,6 @@
 [معول](https://www.meawal.com) — تصميم وتطوير مواقع احترافية في السعودية.
 
 - [www.meawal.com](https://www.meawal.com)
-- hello@meawal.com
 
 ---
 
